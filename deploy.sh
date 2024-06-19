@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Variables
-APP_DIR=/path/to/your/app
-VENV_DIR=/path/to/your/venv
-REPO_URL=git@github.com:username/repo.git
+APP_DIR=MyApp
+VENV_DIR=appEnv
+REPO_URL=git@github.com:DaxHeriniaina/MyApp.git
 BRANCH=main
 
 # Naviguer vers le répertoire de l'application
